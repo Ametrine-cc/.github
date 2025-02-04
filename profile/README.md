@@ -11,19 +11,8 @@ these without any paywalls or subscriptions - free forever.
 
 | New software we are working on    | Estimated time of release | Delayed or On Time    | Platform availability |
 | -------- | ------- | -------- | ------- |
-| Ametrine's Tooler | Unknown | N/A  | Windows 10/11, Linux |
-| Ametrine Hub   | Unknown | N/A  | Windows 10/11, Linux |
-| Ametrine Music   | Unknown | N/A  | Windows 10/11, Linux |
-| Ametrine's File Folio   | Unknown | N/A | Windows 10/11, Linux |
-
-
-## What we are planning to make next ( Hopefully )
-
-| New software we are working on    | Estimated time of release | Delayed or On Time    | Platform availability |
-| -------- | ------- | -------- | ------- |
-| Ametrine Anti-Virus | N/A     | N/A  | Windows 10/11, Linux   |
-| Ametrine VPN  | N/A   | N/A  | Windows 10/11, Linux  |
-<!--
+| Ametrine Hub   | 10/03/2025 | N/A  | Windows 10/11, Linux |
+| Ametrine's File Folio   | 10/06/2025 | N/A | Windows 10/11, Linux |
 
 **Here are some ideas to get you started:**
 
