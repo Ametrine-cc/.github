@@ -11,10 +11,10 @@ these without any paywalls or subscriptions - free forever.
 
 | New software we are working on    | Estimated time of release | Delayed or On Time    | Platform availability |
 | -------- | ------- | -------- | ------- |
-| Ametrine's Tooler | 10 December 2024     | On-Time  | Windows 10/11, Linux |
-| Ametrine Hub   | 25 December 2025   | On-Time  | Windows 10/11, Linux |
-| Ametrine Music   | 10 Febuary 2025   | On-Time  | Windows 10/11, Linux |
-| Ametrine's File Folio   | 26 March 2025   | On-Time | Windows 10/11, Linux |
+| Ametrine's Tooler | Unknown | N/A  | Windows 10/11, Linux |
+| Ametrine Hub   | Unknown | N/A  | Windows 10/11, Linux |
+| Ametrine Music   | Unknown | N/A  | Windows 10/11, Linux |
+| Ametrine's File Folio   | Unknown | N/A | Windows 10/11, Linux |
 
 
 ## What we are planning to make next ( Hopefully )
