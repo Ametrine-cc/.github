@@ -18,7 +18,7 @@ these without any paywalls or subscriptions - free forever.
 | Ametrine Browser (Name not yet decided)   | 10/03/2026 | On Time | Windows 10/11, Linux |
 | Ametrine Office  | 10/06/2026 | On Time | Windows 10/11, Linux |
 | Ametrine Metis Ai   | 10/09/2026 | On Time | Windows 10/11, Linux |
-| Ametrine Watchtower   | 10/06/2026 | On Time | Windows 10/11, Linux |
+| Ametrine Watchtower   | 10/12/2026 | On Time | Windows 10/11, Linux |
 
 **Here are some ideas to get you started:**
 
