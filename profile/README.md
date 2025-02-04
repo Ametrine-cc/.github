@@ -11,8 +11,8 @@ these without any paywalls or subscriptions - free forever.
 
 | New software we are working on    | Estimated time of release | Delayed or On Time    | Platform availability |
 | -------- | ------- | -------- | ------- |
-| Ametrine Hub   | 10/03/2025 | N/A  | Windows 10/11, Linux |
-| Ametrine's File Folio   | 10/06/2025 | N/A | Windows 10/11, Linux |
+| Ametrine Hub   | 10/03/2025 | On Time  | Windows 10/11, Linux |
+| Ametrine's File Folio   | 10/06/2025 | On Time | Windows 10/11, Linux |
 
 **Here are some ideas to get you started:**
 
