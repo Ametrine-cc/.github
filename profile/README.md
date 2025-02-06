@@ -39,4 +39,3 @@ At Ametrine, we are more than just a software company; we are your partners in n
 | Ametrine Office  | 10/06/2026 | On Time | Windows 10/11, Linux |
 | Ametrine Metis Ai   | 10/09/2026 | On Time | Windows 10/11, Linux |
 | Ametrine Watchtower   | 10/12/2026 | On Time | Windows 10/11, Linux |
--->
