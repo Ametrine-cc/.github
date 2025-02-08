@@ -35,7 +35,7 @@ At Ametrine, we are more than just a software company; we are your partners in n
 | Ametrine's File Folio   | 10/04/2025 | On Time | Windows 10/11, Linux |
 | Ametrine Code Flow   | 10/09/2025 | On Time | Windows 10/11, Linux |
 | Ametrine Grid   | 10/12/2025 | On Time | Windows 10/11, Linux |
-| Ametrine Browser (Name not yet decided)   | 10/03/2026 | On Time | Windows 10/11, Linux |
+| Ametrine Explore (Name not yet decided)   | 10/03/2026 | On Time | Windows 10/11, Linux |
 | Ametrine Office  | 10/06/2026 | On Time | Windows 10/11, Linux |
 | Ametrine Metis Ai   | 10/09/2026 | On Time | Windows 10/11, Linux |
 | Ametrine Watchtower   | 10/12/2026 | On Time | Windows 10/11, Linux |
