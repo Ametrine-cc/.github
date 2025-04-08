@@ -31,11 +31,7 @@ At Ametrine, we are more than just a software company; we are your partners in n
 
 | New software we are working on    | Estimated time of release | Delayed or On Time    | Platform availability |
 | -------- | ------- | -------- | ------- |
-| Ametrine Hub   | 10/03/2025 | On Time  | Windows 10/11, Linux |
-| Ametrine's File Folio   | 10/04/2025 | On Time | Windows 10/11, Linux |
-| Ametrine Code Flow   | 10/09/2025 | On Time | Windows 10/11, Linux |
-| Ametrine Grid   | 10/12/2025 | On Time | Windows 10/11, Linux |
-| Ametrine Explore (Name not yet decided)   | 10/03/2026 | On Time | Windows 10/11, Linux |
-| Ametrine Office  | 10/06/2026 | On Time | Windows 10/11, Linux |
-| Ametrine Metis Ai   | 10/09/2026 | On Time | Windows 10/11, Linux |
-| Ametrine Watchtower   | 10/12/2026 | On Time | Windows 10/11, Linux |
+| Ametrine Hub   | 11/03/2025 | On Time  | Windows 10/11, Linux |
+| Ametrine Termix   | 11/04/2025 | On Time  | Windows 10/11, Linux |
+| Ametrine FileFolio  | 11/06/2025 | On Time  | Windows 10/11, Linux |
+| Ametrine Tooler  | 11/06/2025 | On Time  | Windows 10/11, Linux |
