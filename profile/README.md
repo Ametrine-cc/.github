@@ -33,5 +33,5 @@ At Ametrine, we are more than just a software company; we are your partners in n
 | -------- | ------- | -------- | ------- |
 | Ametrine Hub   | 11/03/2025 | On Time  | Windows 10/11, Linux |
 | Ametrine Termix   | 11/04/2025 | On Time  | Windows 10/11, Linux |
-| Ametrine FileFolio  | 11/06/2025 | On Time  | Windows 10/11, Linux |
+| Ametrine File Folio  | 11/06/2025 | On Time  | Windows 10/11, Linux |
 | Ametrine Tooler  | 11/06/2025 | On Time  | Windows 10/11, Linux |
