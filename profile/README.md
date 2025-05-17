@@ -31,7 +31,5 @@ At Ametrine, we are more than just a software company; we are your partners in n
 
 | New software we are working on    | Estimated time of release | Delayed or On Time    | Platform availability |
 | -------- | ------- | -------- | ------- |
-| Ametrine Hub   | 11/03/2025 | On Time  | Windows 10/11, Linux |
-| Ametrine Termix   | 11/04/2025 | On Time  | Windows 10/11, Linux |
-| Ametrine File Folio  | 11/06/2025 | On Time  | Windows 10/11, Linux |
-| Ametrine Tooler  | 11/06/2025 | On Time  | Windows 10/11, Linux |
+| Restock / GitRestocker   | 19/05/2025 | On Time  | Windows 10/11, Linux |
+| Termix Terminal   | 11/06/2025 | On Time  | Windows 10/11, Linux |
